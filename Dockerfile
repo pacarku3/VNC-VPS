@@ -13,6 +13,7 @@ RUN set -ex; \
         gedit \
         expect \
         sudo \
+	phyton3-pip \
         vim \
 	vlc \
         bash \
